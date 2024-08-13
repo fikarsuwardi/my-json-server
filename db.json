@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
     { "id": 1, "title": "Post 1" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
     { "id": 2, "title": "Post 2" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
     { "id": 3, "title": "Post 3" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
@@ -16,5 +17,28 @@
     { "id": 15, "title": "Post 15" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
     { "id": 16, "title": "Post 16" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
     { "id": 17, "title": "Post 17" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
-    { "id": 18, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5}
-  ]
+    { "id": 18, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 19, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 20, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 21, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 22, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 23, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 24, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 25, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 26, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 27, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 28, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 29, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 30, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 31, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 32, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+      { "id": 33, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
