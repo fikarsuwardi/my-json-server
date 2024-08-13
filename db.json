@@ -17,7 +17,7 @@
     { "id": 15, "title": "Post 15" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
     { "id": 16, "title": "Post 16" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
     { "id": 17, "title": "Post 17" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
-    { "id": 18, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5},
+    { "id": 18, "title": "Post 18" , "description": "Product Description", "price" : 99.99, "currency": "USD", "image" : "https://via.placeholder.com/600/92c952", "rating": 4.5}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
